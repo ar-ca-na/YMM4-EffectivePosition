@@ -1,0 +1,6 @@
+<Project>
+  <PropertyGroup>
+    <!-- 参照する YMM4 のフォルダ（末尾に \ を付ける）。Directory.Build.props にコピーして書き換える -->
+    <YMM4DirPath>D:\YMM4\</YMM4DirPath>
+  </PropertyGroup>
+</Project>

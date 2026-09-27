@@ -1,0 +1,9 @@
+bin/
+obj/
+dist/
+*.zip
+*.ymme
+# 手元の YMM4 のパスが入る
+Directory.Build.props
+# 作業メモ
+CLAUDE.md
